@@ -1,1 +1,2 @@
-# Home Assistant component for Belgian Rail company SNCB/NMBS
+# Home Assistant component for SNCB/NMBS
+This is my first Python/Git/Github project
