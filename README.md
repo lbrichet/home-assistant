@@ -1,0 +1,1 @@
+# Home Assistant component for Belgian Rail company SNCB/NMBS
