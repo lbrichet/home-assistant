@@ -1,4 +1,5 @@
 # Home Assistant Component
+# I should really spend more time on this project :)
 
 import urllib.request
 import json
